@@ -1,0 +1,6 @@
+22/04/2020
+    - Uso del archivo requirements.txt para administrar las dependencias.
+    - Librería multiprocessing
+
+23/04/2020
+    - Tkinter: sólo el hilo "principal" puede hacer modificaciones en la GUI.

@@ -1,0 +1,13 @@
+22/04/2020
+    - Guitar, cliente GUI para git: https://github.com/soramimi/Guitar
+    - También otros, pero para CLI: lazygit, tig
+    - Fork no es gratuito: prueba free, pero la licencia son U$D 50.
+
+23/04/2020
+    - Grabación de pantalla con PowerPoint: [Insertar > Grabación de Pantalla]
+
+29/04/2020
+    - zsh: https://github.com/romkatv/powerlevel10k
+    - NerdFonts.
+    - Alacritty: ya lo conocía, pero lo instale y configure bien por primera vez.
+    - ConEmu: otra excelente terminal para Windows.
