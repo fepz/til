@@ -11,3 +11,4 @@
     - NerdFonts.
     - Alacritty: ya lo conocía, pero lo instale y configure bien por primera vez.
     - ConEmu: otra excelente terminal para Windows.
+    - Para iniciar wsl en /home/user: wsl.exe ~ 
