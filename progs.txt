@@ -12,3 +12,15 @@
     - Alacritty: ya lo conocía, pero lo instale y configure bien por primera vez.
     - ConEmu: otra excelente terminal para Windows.
     - Para iniciar wsl en /home/user: wsl.exe ~ 
+
+30/04/2020
+    - Uso de .ssh/config para guardar configuración de conexiones.
+
+04/05/2020
+    - ssh: agregar 'ForwardAgent yes' en .ssh/config para permitir agent forwarding (no necesitamos -A).
+
+15/05/2020
+    - ssh-ident: start and use ssh-agent and load identities as necessary.
+
+19/05/2020
+    - pmap: report memory map of a process
