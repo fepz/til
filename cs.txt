@@ -1,0 +1,3 @@
+21/05/2020
+    - RFC6633: deprecated source quench messages. Con lo cual parte de la
+               teoría de redes esta desactualizada. 
