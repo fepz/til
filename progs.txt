@@ -24,3 +24,7 @@
 
 19/05/2020
     - pmap: report memory map of a process
+
+26/05/2020
+    - suffix aliases en oh-my-zsh
+
