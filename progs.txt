@@ -28,3 +28,7 @@
 26/05/2020
     - suffix aliases en oh-my-zsh
 
+27/05/2020
+    - SSH tunneling para utilizar gdb de manera remota.
+
+
