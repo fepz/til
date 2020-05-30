@@ -31,4 +31,6 @@
 27/05/2020
     - SSH tunneling para utilizar gdb de manera remota.
 
+30/05/2020
+    - ^U para eliminar una linea en la terminal.
 
