@@ -34,3 +34,8 @@
 30/05/2020
     - ^U para eliminar una linea en la terminal.
 
+10/06/2020
+    - O&O ShutUp10: Free antispy tool for Windows 10
+
+18/06/2020
+    - Conceal en vim.
