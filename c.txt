@@ -1,0 +1,2 @@
+18/07/2020
+    - gcc: --wrap linker flag, to replace the call of a function with another one. Useful for moking.

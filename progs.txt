@@ -39,3 +39,6 @@
 
 18/06/2020
     - Conceal en vim.
+
+22/06/2020
+    - ftplugin-man: abrir paginas man desde dentro de Vim.
