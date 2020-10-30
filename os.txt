@@ -1,0 +1,3 @@
+30/10/2020:
+    - Linux by default use UTC, and Windows local time. So, when dual-booting, the clocks differ. The easiest solution is making Linux use local time.
+    
