@@ -42,3 +42,7 @@
 
 22/06/2020
     - ftplugin-man: abrir paginas man desde dentro de Vim.
+
+05/11/2020
+    - PICSimLab: PIC and Arduino simulator laboratory.
+
