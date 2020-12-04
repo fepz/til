@@ -43,6 +43,9 @@
 22/06/2020
     - ftplugin-man: abrir paginas man desde dentro de Vim.
 
+05/11/2020
+    - PICSimLab: PIC and Arduino simulator laboratory.
+
 04/12/2020
     - fzf: a general-purpose command-line fuzzy finder.
     - Can use plugins with tmux!
