@@ -50,3 +50,6 @@
     - fzf: a general-purpose command-line fuzzy finder.
     - Can use plugins with tmux!
 
+17/03/2021
+    - Themes para tmux: https://github.com/jimeh/tmux-themepack
+
