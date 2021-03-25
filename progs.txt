@@ -53,6 +53,9 @@
 17/03/2021
     - Themes para tmux: https://github.com/jimeh/tmux-themepack
 
+19/03/2021
+    - Solve problems with github and ssh: https://gist.github.com/Tamal/
+
 25/03/2021
     - screenkey, key-mon, kmcaster: on-screen display for keyboard and/or mouse.
 
