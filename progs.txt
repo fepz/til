@@ -59,3 +59,6 @@
 25/03/2021
     - screenkey, key-mon, kmcaster: on-screen display for keyboard and/or mouse.
 
+05/04/2021
+    - GitHub CLI: command-line interface for GitHub. Very good!
+
