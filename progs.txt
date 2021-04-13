@@ -62,3 +62,7 @@
 05/04/2021
     - GitHub CLI: command-line interface for GitHub. Very good!
 
+13/04/2021
+    - PaperColor vim colorscheme.
+    - fzf-vim: awesome integration of fzf inside vim.
+
