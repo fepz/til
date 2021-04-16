@@ -66,3 +66,6 @@
     - PaperColor vim colorscheme.
     - fzf-vim: awesome integration of fzf inside vim.
 
+16/04/2021
+    - pass: a standard unix password manager - https://www.passwordstore.org
+
