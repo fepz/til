@@ -69,3 +69,6 @@
 16/04/2021
     - pass: a standard unix password manager - https://www.passwordstore.org
 
+21/04/2021
+    - delta: a viewer for git and diff output
+
