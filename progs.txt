@@ -75,3 +75,8 @@
 23/04/2021
     - gdb-dashboard: standalone .gdbinit for modular interface showing relevant information about the program being debugged.
 
+29/04/2021
+    - syntastic: syntax check plugin for Vim (ohmygod como no instale esto antes)
+    - surround.vim: vim plugin that provides mappings to add/delete surrounding pairs
+    - eunuch.vim: shell commands from Vim without :!
+
