@@ -86,3 +86,7 @@
 
 15/05/2021
     - neovim-qt: Qt graphical interface for neovim.
+
+17/05/2021
+    - starfish: a cross-shell prompt.
+
