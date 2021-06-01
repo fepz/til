@@ -87,6 +87,9 @@
 15/05/2021
     - neovim-qt: Qt graphical interface for neovim.
 
+17/05/2021
+    - starfish: a cross-shell prompt.
+
 28/05/2021
     - udisksctl: utility for mounting filesystems from the command line.
 

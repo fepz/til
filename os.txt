@@ -1,3 +1,5 @@
 30/10/2020:
     - Linux by default use UTC, and Windows local time. So, when dual-booting, the clocks differ. The easiest solution is making Linux use local time.
     
+17/05/2021:
+    - signalfd(2): create a file descriptor for accepting signals.
