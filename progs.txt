@@ -86,3 +86,10 @@
 
 15/05/2021
     - neovim-qt: Qt graphical interface for neovim.
+
+28/05/2021
+    - udisksctl: utility for mounting filesystems from the command line.
+
+01/06/2021
+    - kcachegrind: profile data visualization tool for callgrind.
+
