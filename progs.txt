@@ -95,4 +95,12 @@
 
 01/06/2021
     - kcachegrind: profile data visualization tool for callgrind.
+    - vmprof: lightweight profiler for python.
+
+18/06/2021
+    - arping: sends arp or ip pings to the specified host.
+    - dq: command line tool for DNS querys.
+
+22/06/2021
+    - ale: Asynchronous Lint Engine, plugin that provides linting in neovim and vim 8.
 
