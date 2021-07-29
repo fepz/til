@@ -104,3 +104,5 @@
 22/06/2021
     - ale: Asynchronous Lint Engine, plugin that provides linting in neovim and vim 8.
 
+28/07/2021
+    - rclone: cli program to manage files on cloud storage (google drive, aws, etc.)
