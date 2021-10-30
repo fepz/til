@@ -106,3 +106,7 @@
 
 28/07/2021
     - rclone: cli program to manage files on cloud storage (google drive, aws, etc.)
+
+30/10/2021
+    - image-magick: tool to create, edit, compose or convert digital images. Very handy!
+
