@@ -110,3 +110,6 @@
 30/10/2021
     - image-magick: tool to create, edit, compose or convert digital images. Very handy!
 
+05/11/2021
+    - excalidraw: web-app for drawing diagrams, very simple, no sign-in required.
+
