@@ -113,3 +113,6 @@
 05/11/2021
     - excalidraw: web-app for drawing diagrams, very simple, no sign-in required.
 
+08/11/2021
+    - smartmontools: tools to control and monitor hard disk health.
+
