@@ -116,3 +116,6 @@
 08/11/2021
     - smartmontools: tools to control and monitor hard disk health.
 
+24/11/2021
+    - minicom: a friendly serial communication program.
+
