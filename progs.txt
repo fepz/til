@@ -119,3 +119,6 @@
 24/11/2021
     - minicom: a friendly serial communication program.
 
+14/11/2021
+    - 86BOX: a fork of PCEmu, but that is only available for Windows AFAIK.
+
