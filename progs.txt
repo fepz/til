@@ -122,3 +122,6 @@
 14/11/2021
     - 86BOX: a fork of PCEmu, but that is only available for Windows AFAIK.
 
+12/02/2022
+    - Visidata: an interactive tool for tabulard data. Awesome to read and edit CSV files.
+
