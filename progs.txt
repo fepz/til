@@ -131,3 +131,7 @@
 31/03/2022
     - rsync: i know of it already, but today I rediscovered it retriving files from the if011 server.
     - sshfs: ssh filesystem.
+
+02/04/2022
+    - jq: a cli json processor (awk+grep+sed on json files).
+
