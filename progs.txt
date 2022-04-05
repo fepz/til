@@ -125,3 +125,14 @@
 12/02/2022
     - Visidata: an interactive tool for tabulard data. Awesome to read and edit CSV files.
 
+21/03/2022
+    - fzf: ctrl+t fuzzy file finder and alt+c fuzzy directory finder.
+
+31/03/2022
+    - rsync: i know of it already, but today I rediscovered it retriving files from the if011 server.
+    - sshfs: ssh filesystem.
+
+02/04/2022
+    - jq: a cli json processor (awk+grep+sed on json files).
+    - xmlstartlet: a tool similar to jq, but for xml files.
+
