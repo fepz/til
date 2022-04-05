@@ -1,2 +1,6 @@
-27/04/2020:
+2020-04-27:
     - http://www.textfiles.com/ textos, faqs, tutoriales.
+
+2022-04-05:
+    - https://www.operating-system.org/: operating systems documentation resources.
+
