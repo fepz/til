@@ -136,3 +136,7 @@
     - jq: a cli json processor (awk+grep+sed on json files).
     - xmlstartlet: a tool similar to jq, but for xml files.
 
+10/04/2022
+    - sioyek: a PDF viewer for reading research papers (gihtub.com/ahrm/sioyek)
+    - pdfgrep: search text in PDF files (https://pdfgrep.org/)
+
