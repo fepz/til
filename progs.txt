@@ -139,4 +139,6 @@
 10/04/2022
     - sioyek: a PDF viewer for reading research papers (gihtub.com/ahrm/sioyek)
     - pdfgrep: search text in PDF files (https://pdfgrep.org/)
+    - ns3: network-simulator 3 (https://www.nsnam.org/)
+    - gns3: graphical network simulator (https://gns3.com/)
 
