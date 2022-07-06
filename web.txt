@@ -6,3 +6,6 @@
 
 2022-04-18:
     - SDF Public Access Unix System: an free unix shell provider on the internet.
+
+2022-07-06:
+    - wiby.com: a search engine for classical-looking web sites.
