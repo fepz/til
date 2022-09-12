@@ -136,3 +136,6 @@
     - jq: a cli json processor (awk+grep+sed on json files).
     - xmlstartlet: a tool similar to jq, but for xml files.
 
+22/06/2022
+    - goyo: a distraction-free plugin for vim.
+
