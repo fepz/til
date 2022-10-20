@@ -142,3 +142,6 @@
     - ns3: network-simulator 3 (https://www.nsnam.org/)
     - gns3: graphical network simulator (https://gns3.com/)
 
+22/06/2022
+    - goyo: a distraction-free plugin for vim.
+

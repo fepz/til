@@ -1,3 +1,8 @@
 21/05/2020
     - RFC6633: deprecated source quench messages. Con lo cual parte de la
                teoría de redes esta desactualizada. 
+
+12/09/2022
+    - RFC8085: guidelines for the use of UDP relating congestino, message
+               size, checksum, etc.
+
