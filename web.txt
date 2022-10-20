@@ -11,5 +11,5 @@
     - wiby.com: a search engine for classical-looking web sites.
 
 2022-10-19:
-    - playclassics.games: play classic dos, windows and console games on the web browser!
+    - playclassic.games: play classic dos, windows and console games on the web browser!
 
