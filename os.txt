@@ -3,3 +3,6 @@
     
 17/05/2021:
     - signalfd(2): create a file descriptor for accepting signals.
+
+12/01/2023:
+    - Windows can now mount Linux partitions throught the Linux Subsystem.
