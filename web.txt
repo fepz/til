@@ -1,8 +1,11 @@
-2020-04-27:
+2020-04-27
     - http://www.textfiles.com/ textos, faqs, tutoriales.
 
-2022-04-05:
+2022-04-05
     - https://www.operating-system.org/: operating systems documentation resources.
 
-2022-04-18:
+2022-04-18
     - SDF Public Access Unix System: an free unix shell provider on the internet.
+
+2023-01-17
+    - http://caca.zoy.org/: home-page of libcaca and other software tools (very funny name)
