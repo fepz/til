@@ -144,6 +144,7 @@
 
 22/06/2022
     - atop: an interactive system and process monitor.
+    - goyo: a distraction-free plugin for vim.
 
 17/01/2023
     - libcaca: colour-ascii art library (funny name!)
