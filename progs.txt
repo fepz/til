@@ -149,3 +149,5 @@
 17/01/2023
     - libcaca: colour-ascii art library (funny name!)
 
+29/06/2023:
+    - firefox: shift+esc shows the cpu and memory usage of each tab.
